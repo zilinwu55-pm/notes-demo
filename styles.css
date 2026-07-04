@@ -2,12 +2,12 @@
   color-scheme: light;
   --bg: #f6f7f3;
   --panel: #ffffff;
-  --panel-muted: #eef4f2;
+  --panel-muted: #eef4fb;
   --ink: #1d2524;
   --muted: #687371;
   --line: #d9dfdc;
-  --accent: #137c6b;
-  --accent-dark: #0d5f53;
+  --accent: #2563eb;
+  --accent-dark: #1d4ed8;
   --danger: #b93b45;
   --shadow: 0 18px 45px rgba(27, 38, 35, 0.12);
 }
@@ -118,7 +118,7 @@ h1 {
 .title-input:focus,
 .body-input:focus {
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(19, 124, 107, 0.14);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.14);
 }
 
 .note-list {
@@ -149,8 +149,8 @@ h1 {
 }
 
 .note-item.active {
-  border-color: rgba(19, 124, 107, 0.3);
-  background: #e8f4f0;
+  border-color: rgba(37, 99, 235, 0.3);
+  background: #e8f0ff;
 }
 
 .note-title {
