@@ -61,6 +61,21 @@ button {
   padding: 28px 24px 18px;
 }
 
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.brand-logo {
+  width: 44px;
+  height: 44px;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 8px 18px rgba(91, 33, 182, 0.2);
+}
+
 .eyebrow {
   margin: 0 0 4px;
   color: var(--accent);

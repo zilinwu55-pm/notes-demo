@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">双栏笔记 Logo</title>
+  <desc id="desc">紫色圆角方块中有一张打开的双栏笔记页</desc>
+  <rect width="64" height="64" rx="14" fill="#7c3aed"/>
+  <path d="M18 16h20c4.42 0 8 3.58 8 8v24H26c-4.42 0-8-3.58-8-8V16Z" fill="#fff" opacity=".96"/>
+  <path d="M26 16h12c4.42 0 8 3.58 8 8v24H34c-4.42 0-8-3.58-8-8V16Z" fill="#f4efff"/>
+  <path d="M26 16v24c0 4.42 3.58 8 8 8" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linecap="round"/>
+  <path d="M34 26h7M34 34h7M21 26h8M21 34h8" fill="none" stroke="#7c3aed" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M46 24c0-4.42-3.58-8-8-8h-2" fill="none" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+</svg>

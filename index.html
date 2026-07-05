@@ -4,15 +4,19 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>双栏笔记</title>
+    <link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main class="app-shell">
       <aside class="sidebar" aria-label="笔记列表">
         <header class="sidebar-header">
-          <div>
-            <p class="eyebrow">Notes</p>
-            <h1>我的笔记</h1>
+          <div class="brand">
+            <img class="brand-logo" src="assets/logo.svg" alt="" width="44" height="44" aria-hidden="true" />
+            <div>
+              <p class="eyebrow">Notes</p>
+              <h1>我的笔记</h1>
+            </div>
           </div>
           <button class="icon-button primary" id="addNote" type="button" aria-label="新建笔记" title="新建笔记">
             +
